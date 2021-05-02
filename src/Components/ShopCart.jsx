@@ -1,16 +1,18 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState, useEffect, useContext} from 'react';
 import Cart from './Cart/Cart.js';
 import Data from '../Components/fakeData/fakeData.json';
+import {CardContext} from "../App";
 
 function ShopCart() {
     const [carts, setCarts] = useState([]);
     useEffect(()=>{
         setCarts(Data);
     },[]);
-    const [addCart, setAddCart] = useState([]);
+    const [addCart, setAddCart] = useContext(CardContext);
     const handleAddProduct = (product) =>{
         console.log('addeddd')
-        const newCart = [...addCart, carts];
+        console.log(addCart.length)
+        const newCart = [...addCart, product];
         setAddCart(newCart);
     }
 

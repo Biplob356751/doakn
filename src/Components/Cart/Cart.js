@@ -11,7 +11,7 @@ function Cart(props) {
                 <p>{price}</p>
                 <div className="button">
                     <button><Link to={`/details/${id}`}>Details</Link></button>
-                    <button onClick={() => props.handleAddProduct(props.product)}>Add To Cart</button>
+                    <button onClick={() => props.handleAddProduct(props.cart)}>Add To Cart</button>
                 </div>
             </div>
     )
