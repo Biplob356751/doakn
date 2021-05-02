@@ -7,12 +7,19 @@ function ShopCart() {
     useEffect(()=>{
         setCarts(Data);
     },[]);
+    const [addCart, setAddCart] = useState([]);
+    const handleAddProduct = (product) =>{
+        console.log('addeddd')
+        const newCart = [...addCart, carts];
+        setAddCart(newCart);
+    }
 
     return (
         <div className="cartpart">
             {
-                carts.map(cart => <Cart cart={cart} key={cart.id}></Cart>)
+                carts.map(cart => <Cart cart={cart} handleAddProduct={handleAddProduct} key={cart.id}></Cart>)
             }
+            <h1>{addCart.length}</h1>
         </div>
     )
 }

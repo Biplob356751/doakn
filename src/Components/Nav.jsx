@@ -57,7 +57,7 @@ class Nav extends Component {
                         </div>
                         <div className="cart__icon col-1">
                             <Link to='/checkout'><i className='fa fa-cart-plus'></i></Link>
-                            <span>4</span>
+                            <span>5</span>
                         </div>
                         <div className="languge__section col-1">
                             <span>ENG</span>

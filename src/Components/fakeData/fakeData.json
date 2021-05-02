@@ -1,61 +1,143 @@
- [{
+[
+  {
     "id": 1,
-    "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
+    "image": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
     "name": "T-shirt",
-    "price": "300$"
-  }, {
+    "price": "300$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+  },
+  {
     "id": 2,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Spacie",
-    "price": "200$"
-  }, {
+    "price": "200$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+  },
+  {
     "id": 3,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Greedyer",
-    "price": "100$"
-  }, {
+    "price": "100$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+  },
+  {
     "id": 4,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Tripe",
-    "price": "120$"
-  }, {
+    "price": "120$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 5,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Mayworth",
-    "price": "300$"
-  }, {
+    "price": "300$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 6,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Guirau",
-    "price": "130$"
-  }, {
+    "price": "130$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 7,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Hembery",
-    "price": "500$"
-  }, {
+    "price": "500$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 8,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Chastaing",
-    "price": "600$"
-  }, {
+    "price": "600$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 9,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Casone",
-    "price": "200$"
-  }, {
+    "price": "200$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 10,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Dunkley",
-    "price": "230$"
-  }, {
+    "price": "230$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 11,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Rainbow",
-    "price": "380$"
-  }, {
+    "price": "380$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  },
+  {
     "id": 12,
     "image": "https://www.pngarts.com/files/1/Dairy-PNG-Image-Background.png",
     "name": "Verny",
-    "price": "500$"
-  }]
+    "price": "500$",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+    "image1": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+    "image2": "https://www.benefitcosmetics.com/globalassets/pdps/face/primer/the-porefessional-super-setter/the-porefessional-super-setter-component.png?width=300&height=350&mode=crop&center=0.5,0.5",
+    "image3": "https://atlas-content-cdn.pixelsquid.com/stock-images/gas-tank-cylinder-QJDd9nA-600.jpg",
+    "image4": "https://atlas-content-cdn.pixelsquid.com/stock-images/starbucks-coffee-cup-paper-YaKzvY4-600.jpg"
+
+  }
+]
